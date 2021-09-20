@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="JTI_BlobStorage"
+  DTS:DTSID="{0BC06910-7CF9-462C-ACF1-E66CDF9DEF19}"
+  DTS:CreationName="AzureStorage"
+  p1:Salt="sZwrZqWG/Jo="
+  p1:IV="H6UF5NCa6Ty9ne3a3bsBkQ=="
+  p1:Algorithm="http://www.w3.org/2001/04/xmlenc#aes256-cbc" xmlns:p1="www.microsoft.com/SqlServer/SSIS">P/nnWJOcSvvo0+jmX0W2ukW273b/qvoSqBGRjtRGtpnkbHwFpr4t3uH0NRfjRa5NuYmpvaJnswGP9NpWwvLfeNhPpD46AiZaL53x9VC0icMTyvYjcGAib6StzttNjLYJ9BoW/pmfKQndrDXyFTx7E+idzPP35bihnku1PP+LFmE7AJpNKubk24Zj2FmkHWm1EZ3obCfYIEvkZ61RWpRZ4beYXEWmG4tOXq5Nb3D8NF+ZFrf8xHU8Q0DMzn0ai5VJsHfBUHsDtc9VJMgim6jSABZukmx91rOQGMV7VyiD9Q/2K0QhhRzKS5WZeFu2CSxmuiW4+z19ubPbChclFxdoMExy6lhAIIl0+b2fXb8To67hPtMOIzGt9nla6fdo2ZBUvNFpjB9N+3P/0NOC76OVPNFdR4GRkGyezXhMqmyaWYN0ZliwYhsCDvYPtgAKPKeLKXC5dhF0tHd9h0SDSHxreEbppyf4yOJ0DX7HDDo+GjK5hHd1U+uueZs6GaK2DGtJGcw9YyCpKcx1lA9rLZSvLwGUgmrLf3xax9DuGKr3YEbXuH91ixNgJi25CH2BiTx4doFdqi0wwIGyxTqlijaJAxcZz8pPW1dsl+1IpUjHBSOr57N+SgpIxYHaUErswasqOIdcfz0nC/mkE/M0q5rXK4OlQ8y+uVc98udCIpv1x764CNQmMmR3JQl9B5y4Vh8C+NCletW2WrDETIfp16eKRLvj3ZRbW2HmanXixpzBhCuQfdDU+5IzI7AgGYfusY/t1m8U7JsTE/lwixq8VRURcZZZrkBpapjsvW4Uuv6NNYwlfQ+tNp1asgM1Ni7DNUPlG+rDoEMYDpr7fmfnxor8CDnAgDYa26KEDNSPE0sDb82BSbRplcsQyNZu40U9SLFQt9dOfvNMKQcjoQhkMlrMz8rLqwNtC/mPZ8rQbGQkilqmlTT92YrCk9uDzIQsG4MQZrqpac3ACOqaCw+jF1VnzaE+VDowshJ0nFsHo4+uzk3XuSPsfcmEAIr4WuHAlda9GZX6Kf5WKtQF5+88DO4/gQ==</DTS:ConnectionManager>
